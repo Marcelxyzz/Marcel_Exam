@@ -1,5 +1,1 @@
 
-streamlit
-wonderwords
-registration_page
-login_page
