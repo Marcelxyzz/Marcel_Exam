@@ -1,6 +1,6 @@
 random
 time
 streamlit
-wonderwords
+RandomWord
 registration_page
 login_page
