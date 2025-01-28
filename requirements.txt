@@ -1,5 +1,4 @@
-random
-time
+
 streamlit
 wonderwords
 registration_page
